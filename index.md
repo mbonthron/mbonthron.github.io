@@ -5,3 +5,9 @@
 layout: single
 author_profile: true
 ---
+
+I am a **PhD** Student in Mechanical Engineering studying Nonlinear Dynamics of Mechanical Metamaterials at the University of Mayland.
+My main projects are:
+- Project 1
+- Project 2
+- Project 3
