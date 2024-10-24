@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Tubaldi Lab"
-      icon: "fav fa-fw fa-github"
+      icon: "fa-solid fa-atom"
       url: "https://tubaldi.umd.edu/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
