@@ -10,5 +10,3 @@ slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://via.library.depaul.edu/csh_etd/462/'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-Master's Thesis which explored the domain of convergence for Broyden's Method, a numerical root finding technique. This work visualizes the effect of initial guess on the root found with a variety of numerical methods.
