@@ -2,7 +2,7 @@
 title: "An electrostatic/gecko-inspired adhesives soft robotic gripper"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-06-19-Electrostatic Paper
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-6-19
 venue: 'IEEE Robotics and Automation Letters'
