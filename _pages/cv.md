@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, University of Maryland, College Park, 2026 (expected)
+* M.S. in Applied Mathematics, DePaul University, 2022
+* B.S. in Mechanical Engineering, Illinois Institute of Technology, 2020
 
-Work experience
+Industry experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Product Design Engineer, *Guardian Equipment, Chicago Illinois*
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
