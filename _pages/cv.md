@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, University of Maryland, College Park, 2026 (expected)
-* M.S. in Applied Mathematics, DePaul University, 2022
-* B.S. in Mechanical Engineering, Illinois Institute of Technology, 2020
+* Ph.D in Mechanical Engineering, *University of Maryland, College Park*, 2022-2026 (expected)
+* M.S. in Applied Mathematics, *DePaul University*, 2020-2022
+* B.S. in Mechanical Engineering, *Illinois Institute of Technology*, 2017-2020
 
 Publications
 ======
@@ -35,7 +35,4 @@ Teaching
 
 Industry experience
 ======
-* Product Design Engineer, *Guardian Equipment, Chicago Illinois*
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Product Design Engineer, *Guardian Equipment, Chicago Illinois*, 2019-2022
